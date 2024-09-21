@@ -1,5 +1,5 @@
 # MVC-projects
-Collection of Simple MVC Projects build with: C#, MVC, EF-Core, SQL Server, LINQ
+Collection of Simple .NET MVC Projects build with: C#, MVC, EF-Core, SQL Server, LINQ
 
 ## Tools:
 . C#<br/>
