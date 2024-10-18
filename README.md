@@ -1,5 +1,5 @@
 # MVC-projects
-Series of Simple ASP.NET MVC applications featuring user authentication, database management with Entity Framework, and CRUD operations.
+Series of simple ASP.NET MVC applications featuring user authentication, database management with Entity Framework, and CRUD operations.
 
 ## Tools:
 . C#<br/>
