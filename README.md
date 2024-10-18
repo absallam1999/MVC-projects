@@ -1,5 +1,5 @@
 # MVC-projects
-Collection of Simple .NET ASP.NET MVC Projects build with: C#, ASP.NET, MVC, Entity Framework Core, SQL Server, LINQ
+Collection of Series of ASP.NET MVC applications featuring user authentication, database management with Entity Framework, and CRUD operations.
 
 ## Tools:
 . C#<br/>
