@@ -6,8 +6,7 @@ Series of simple ASP.NET MVC applications featuring user authentication, databas
 . ASP.NET<br/>
 . MVC<br/>
 . SQL Server<br/>
-. Entity Framework Core(EF-Core)<br/>
-. LINQ<br/>
+. Entity Framework Core(EF-Core)
 
 
 ## Created By: [Absallam](https://github.com/absallam1999).
