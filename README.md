@@ -3,8 +3,7 @@ Series of simple ASP.NET MVC applications featuring user authentication, databas
 
 ## Tools:
 . C#<br/>
-. ASP.NET<br/>
-. MVC<br/>
+. ASP.NET MVC<br/>
 . SQL Server<br/>
 . Entity Framework Core(EF-Core)
 
